@@ -2,10 +2,11 @@ body{
 	background: 
 }
 #banniere{
-	background-image: url("baniere".jpg");
-	height: 550px;
+	background-image: url("ban.png");
+	height: 250px;
 	width: 100%;
 	margin: auto;
+	
 }
 #nave{
 	text-align: center;
@@ -53,6 +54,7 @@ h2{
 caption{
 	color: red;
 	text-decoration: underline;
+	font-size: 25px;
 }
 th{
 	border: 1px solid black ;
