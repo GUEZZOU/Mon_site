@@ -1,11 +1,13 @@
 body{
-	background: 
+	background:url
 }
 #banniere{
 	background-image: url("ban.png");
 	height: 250px;
 	width: 100%;
 	margin: auto;
+	border: 10px solid red;
+	border-radius: 10px;
 	
 }
 #nave{
@@ -53,6 +55,10 @@ h2{
 }
 
 /*--..................................tableau..................--*/
+
+table{
+	text-align:center;
+}
 caption{
 	color: red;
 	text-decoration: underline;
